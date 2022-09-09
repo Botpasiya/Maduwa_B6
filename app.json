@@ -1,9 +1,9 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
+    "name": "𝗤𝘂𝗲𝗲𝗻_𝗔𝗺𝗮❤️",
+    "description": "𝗔𝗺𝗮_𝗕𝗼𝘁🌎 - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://i.imgur.com/L7UKvo2.jpeg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
+    "repository": "https://github.com/Botpasiya/Maduwa_B6",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
@@ -33,12 +33,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Maduwa_❤️" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94701643862" ,
             "required": true
              },
        
