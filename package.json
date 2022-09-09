@@ -1,5 +1,5 @@
 {
-  "name": "Aquabot-MD",
+  "name": "𝗤𝘂𝗲𝗲𝗻_𝗔𝗺𝗮",
   "version": "1.0.0",
   "description": "aquabot happy for whatsapp.",
   "main": "/aquabot/bot.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/Botpasiya/Maduwa_B6.git"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "Maduwa_",
+  "developer": "Maduwa_❤️",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
