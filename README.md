@@ -1,6 +1,6 @@
-# AQUABOT-MD
+# 𝗤𝘂𝗲𝗲𝗻 ᎪᎷᎪ 𝗲𝗱𝗶𝘁𝗶𝗼𝗻
 This project is still being tested
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
+<p align="center"> <a href="github.com/Botpasiya"><img align="center" src="https://i.imgur.com/L7UKvo2.jpeg"/></a>
  <p align="center">
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sanuwaofficial/AQUABOT-MD?color=blue&style=flat-square"></a>
@@ -22,7 +22,7 @@ This project is still being tested
 
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
+ ###  Developer :- Maduwa_B6
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
